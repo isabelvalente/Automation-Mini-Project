@@ -32,7 +32,6 @@ class Asos_join
 
   def click_submit
     find('#register').click
-
   end
 
 end
